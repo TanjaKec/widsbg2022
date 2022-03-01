@@ -1,0 +1,24 @@
+theme = "hugo-theme-air"
+baseURL = "https://widsbg2022.netlify.com/"
+languageCode = "en-us"
+title = "Women in DS"
+
+[author]
+  name = "SisterAnalyst"
+
+[params]
+  description = "fourth WiDS conference in Serbia on 26 March 2022"
+  cover = "images/user.jpg"
+  author = "SisterAnalyst"
+  authorlocation = ""
+  authorwebsite = "https://sisteranalyst.org"
+  bio= "my bio"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "SisterAnalyst"
+  twitterName = "@SisterAnalyst"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]

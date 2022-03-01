@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ds on Women in DS</title>
+    <link>/tags/ds/</link>
+    <description>Recent content in ds on Women in DS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/post/program/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/program/</guid>
+      <description>On the 26th of March, 2022 Belgrade is joining the international conference WiDS. The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field. WiDS started as a conference at Stanford in November 2015. Now, WiDS includes a global conference, with 150+ regional events worldwide including a datathon (encouraging participants to hone their skills) and a podcast (featuring leaders in the field talking about their work, and their journeys).</description>
+    </item>
+    
+  </channel>
+</rss>
