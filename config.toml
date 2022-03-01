@@ -1,5 +1,5 @@
 theme = "hugo-theme-air"
-baseURL = "https://widsbg2022.netlify.com/"
+baseURL = "https://widsbg2022.netlify.app/"
 languageCode = "en-us"
 title = "Women in DS"
 
